@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="910563b1-c7d6-4db1-8496-3a55b7b979e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebXR.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/pygment_trac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/immersive-ar-session.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/hit-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/material.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/primitive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/program.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/core/texture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/geometry/box-builder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/geometry/cone-builder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/geometry/primitive-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/loaders/gltf2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/materials/pbr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/math/gl-matrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/math/ray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/bounds-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/cube-sea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/drop-shadow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/gltf2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/input-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/quad-texture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/seven-segment-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/skybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/stats-viewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/nodes/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/render/scenes/scene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/stereo-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/dat.gui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/mat2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/mat2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/mat3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/mat4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/quat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/quat2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/vec2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/vec3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/gl-matrix/src/gl-matrix/vec4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/webxr-polyfill/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/third-party/webxr-polyfill/build/webxr-polyfill.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/util/inline-viewer-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/util/query-args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/util/texture-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/util/webxr-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/webxr-sample-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/wglu/wglu-program.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/wglu/wglu-url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/Duck/Duck.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/Duck/Duck0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/Duck/DuckCM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/space/ATTRIBUTION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/space/space.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/space/space.blend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/gltf/space/space.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/ATTRIBUTION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/annotation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/arrow-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/bluetooth-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/camera-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/check-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/chess-pano-4k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/chess-pano-4k180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/chess-pano-4k180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/cube-sea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/cube-sea.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/eilenriede-park-2k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/hid-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/info-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/location-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/microphone-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/midi-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/milky-way-2k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/milky-way-4k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/mono-equirect180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/mono_cube_map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/mono_equirect_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/notifications-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/pause-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/play-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/rect-mono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/rect-stereo-top-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/screenshare-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/serial-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/stereo_cube_map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/usb-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/media/textures/x-button.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uGBdyHmQUG7pqxP1ABdQlcspPt" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebXR/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="910563b1-c7d6-4db1-8496-3a55b7b979e2" name="Default Changelist" comment="" />
+      <created>1624282136722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624282136722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
